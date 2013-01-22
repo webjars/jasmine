@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine</artifactId>
-    <version>1.3.0-SNAPSHOT</version>
+    <version>1.3.0</version>
     <name>Jasmine</name>
     <description>WebJar for Jasmine</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/jasmine</url>
         <connection>scm:git:https://github.com/webjars/jasmine.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jasmine.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jasmine-1.3.0</tag>
     </scm>
 
     <developers>
