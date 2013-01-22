@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine</artifactId>
-    <version>1.3.2-SNAPSHOT</version>
+    <version>1.3.1-SNAPSHOT</version>
     <name>Jasmine</name>
     <description>WebJar for Jasmine</description>
     <url>http://webjars.org</url>
